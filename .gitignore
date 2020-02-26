@@ -9,3 +9,6 @@ selenium-debug.log
 auth0-variables.js
 .env
 auth_config.json
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
